@@ -1,3 +1,11 @@
+! Application is going to allow creation and generation of ebooks via simplified online form.
+! Will use Saas business model.
+! Application stack: AngularJS, 
+! Users are allowed to register and manage their ebooks through their online profile page.
+! Users are allowed to generate ebooks anonymously as a one-time payment option upon file generation.
+! Ebook creation form will consist of cover creation, foreword, ToC, chapters.
+
+
 Ability to create ebooks online
   1. Diff formats (epub, pdf, mobi, etc.) //need to investigate
   2. Anonymous generation allowed
@@ -13,5 +21,7 @@ Ability to create ebooks online
       - allow custom cover
       - more customization for styling (font, headings, page numbering)
       - other (?)
-
-      
+  5. Additional possible function:
+      - automatic publication to Google Play and App Store // need to investigate
+      - hosting ebooks for free download (premium option?)
+      -
