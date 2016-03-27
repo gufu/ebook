@@ -1,8 +1,9 @@
 ! Application is going to allow creation and generation of ebooks via simplified online form.
 ! Will use Saas business model.
-! Application stack: AngularJS, 
-! Users are allowed to register and manage their ebooks through their online profile page.
+! Application stack: AngularJS, Pure CSS, Compass
+! Users are allowed to register and manage their ebooks through their profile page.
 ! Users are allowed to generate ebooks anonymously as a one-time payment option upon file generation.
+! Users are allowed to test the generator with "Demo" placeholder in the background.
 ! Ebook creation form will consist of cover creation, foreword, ToC, chapters.
 
 
